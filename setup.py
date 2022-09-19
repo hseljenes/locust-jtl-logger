@@ -5,7 +5,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read()
 setup(
     name = 'locust-jtl-logger',
-    version = '0.0.1',
+    version = '0.0.2',
     author = 'Henning Seljenes',
     author_email = 'henning.seljenes@gmail.com',
     license = 'MIT',
